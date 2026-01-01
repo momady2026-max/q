@@ -1,0 +1,8 @@
+{
+  "name": "Quiz Creator",
+  "description": "A comprehensive tool for teachers to create, customize, and share interactive HTML quizzes with students, featuring image uploads, custom timers, and WhatsApp result reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
